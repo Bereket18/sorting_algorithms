@@ -1,1 +1,1 @@
-This is python algorithm
+This is C algorithm
